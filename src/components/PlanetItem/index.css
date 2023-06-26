@@ -1,0 +1,26 @@
+.item-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+
+.img-sty {
+  width: 400px;
+  margin-bottom: 20px;
+}
+
+.title-sty {
+  font-size: 25px;
+  color: #f8fafc;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+
+.desc-sty {
+  font-size: 15px;
+  color: #f1f5f9;
+  margin-bottom: 30px;
+  text-align: center;
+}
